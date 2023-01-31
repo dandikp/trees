@@ -1,0 +1,25 @@
+{
+  "name": "trees",
+  "version": "0.0.1",
+  "description": "A tree diagram library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandikp/trees.git"
+  },
+  "keywords": [
+    "binary-tree",
+    "trinary-tree",
+    "hierarchy-tree",
+    "tree-diagram"
+  ],
+  "author": "Dandi Pratama <dandi.karunia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandikp/trees/issues"
+  },
+  "homepage": "https://github.com/dandikp/trees#readme"
+}
